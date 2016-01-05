@@ -1,3 +1,5 @@
+module P35 where
+
 intSqrt :: Int -> Int
 intSqrt n = floor $ sqrt $ fromIntegral n
 
