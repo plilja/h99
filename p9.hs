@@ -1,3 +1,5 @@
+module P9 where
+
 pack :: (Eq a) => [a] -> [[a]]
 pack [] = []
 pack (x:[]) = [[x]]

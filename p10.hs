@@ -1,3 +1,5 @@
+module P10 where
+
 import P9
 
 encode :: (Eq a) => [a] -> [(Int, a)]
