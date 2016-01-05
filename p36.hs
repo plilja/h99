@@ -1,3 +1,5 @@
+module P36 where
+
 import P35
 import qualified Data.List as L
 
